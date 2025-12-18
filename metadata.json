@@ -1,0 +1,9 @@
+{
+  "name": "NomadAI - Your Ultimate Travel Companion",
+  "description": "A comprehensive AI-powered travel assistant providing real-time local guidance, cultural history, translation, itinerary planning, and safety alerts.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
